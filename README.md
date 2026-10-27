@@ -5,7 +5,7 @@ I'm a Cybersecurity major at the University of Texas at San Antonio (B.S., expec
 
 ⚒️ Skills
 
-[Show Image](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white
 [Show Image](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
 [Show Image](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)
 [Show Image](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white)
